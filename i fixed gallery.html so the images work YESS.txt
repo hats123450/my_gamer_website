@@ -1,0 +1,8 @@
+i fixed gallery.html
+cause for javascript it just said
+".jpg" 10 times
+and so i made them my .jpg but my .jpg files are named 1 - 10
+so i made the ".jpg" 1.jpg to 10.jpg
+then on the <body>
+i made <link rel"image_src" href="1.jpg">  to 10.jpg
+then it worked instead of being blank
